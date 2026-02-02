@@ -1,2 +1,3 @@
-CS 2400 Section 104
+CS2400 Section 104 
+zo958723@ohio.edu
 Done
